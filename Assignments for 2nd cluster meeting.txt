@@ -1,0 +1,5 @@
+Assignment 1: Use the NIST CSF to respond to a Security Incident on Module 4 of Course 3
+
+Assignment 2: Your organization has 5 departments namely HR, Finance, Training, Operations, 
+and Security. Create files file1 and file2 in the HR directory and then move file2 to the 
+Training department while you copy file1 and file2 to the remaining departments.  
