@@ -1,0 +1,13 @@
+﻿Review. 
+1. Botium Toys employees access to internally stored data, cardholder data and customers' PSI/SPII violates the principles of confidentiality and least privilege. (Administrative control)
+2. Violation of one of the core function of controls ; encryption, therefore customer's credit card information is at risk and threat actors can access the information from their database. ( Access control policy , Technical control)  Violation of a compliance standard (PCI DSS) Payment card industry data security atandard. 
+3. Botium Toys need to implement access control pertaining to least privilege and separation of duties. (Administrative and Preventive control)
+4 The IT department has put in place integrated controls to ensure availability and integrity of data. 
+5. The IT department has a firewall that blocks traffic based on set of security rules to prevent unwanted or malicious traffic from entering the network. (Technical control)
+6.Antivirus software is installed and monitored regularly by the IT department.
+7. An intrusion detection system (IDS) should be installed to alert of any form of risk associated with threat of intrusion. (Technical control)
+8. Disaster recovery plan should be put in place to ensure business continuity and also create backups for critical data. ( Corrective and Administrative control)
+9. The (GDPR) General Data Protection Regulation is in place. 
+10. Password policy should be standardized as a preventive measure to reduce likelihood of account compromise in compliant with current minimum password complexity requirements.
+11. There should be a centralized password management system to enforce the password policy's minimum requirements to improve productivity and recover or reset password. 
+12. Regular schedule must be put in place with clear intervention methods or monitor legacy systems. 
